@@ -53,4 +53,4 @@ These files were uploaded together in a GitHub repository to maintain project st
 Conclusion:
 This project showcases a practical automation use-case: reading data, analyzing it, and exporting the results into a readable, portable document. It demonstrates proficiency in data handling with pandas and PDF generation using FPDF. This type of task is common in business reporting, HR systems, and data monitoring dashboards. Completing this helped strengthen my skills in Python scripting, data analysis, and report automation, which are highly valued in professional and industrial settings.
 
-#image(https://github.com/user-attachments/assets/9bdda41e-58a8-4747-85a9-21db6aed49aa)
+![Image](https://github.com/user-attachments/assets/a6da6623-b532-4b13-a036-db2e3162960b)
